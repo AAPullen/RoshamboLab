@@ -92,7 +92,7 @@ do
 			Console.WriteLine(player1.Name + " wins!");
 			wins++;
 		}
-		else if (player2.Value == Roshambo.Paper)
+		else if (player2.Value == Roshambo.Scissors)
 		{
 			Console.WriteLine("Draw!");
 		}
